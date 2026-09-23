@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "647a9d488f3ae82420876c82",
+  "owner": "tpgkwnxj3",
+  "repo": "page-67a37f265a31be32de41ac45",
+  "title": "球加速",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "67a37f265a31be32de41ac45",
+      "a": "球加速",
+      "b": "2027最新官网",
+      "entity": "球加速",
+      "brand": "球加速",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "ac6c4b813e6b9db38ba1171cd06bbd472ad8c9f6aa132abc684fba75a15de5bd",
+      "content": {
+        "primary_entity": "球加速",
+        "keyword1": "球加速",
+        "keyword2": "2027最新官网",
+        "content": {
+          "AI_CLIENTS_INTRO": "根据设备系统选择客户端，按配置文档导入订阅即可使用球加速。",
+          "AI_CLIENTS_TITLE": "客户端按设备选择",
+          "AI_CLOSING_TEXT": "访问球加速客户端地址，下载对应版本并导入订阅。",
+          "AI_CLOSING_TITLE": "开始配置球加速",
+          "AI_DESCRIPTION": "，提供基础版、旗舰版与团队版三档套餐，覆盖 3 台到 20 台设备同时在线，月流量从 100GB 到 1000GB。旗舰版适合需要流媒体解锁与游戏加速的用户，团队版面向多设备高带宽场景。",
+          "AI_FEATURES_INTRO": "从设备数量、流量用量与订阅周期三个角度评估套餐。",
+          "AI_FEATURES_TITLE": "套餐与设备选择要点",
+          "AI_FEATURE_TEXT_1": "基础版支持 3 台设备，旗舰版 5 台，团队版 20 台，先确认常用设备总数。",
+          "AI_FEATURE_TEXT_2": "基础版每月 100GB，旗舰版 300GB，团队版 1000GB，按日常流量选档。",
+          "AI_FEATURE_TEXT_3": "所有套餐提供年付方案，年付价格约为月付的十个月用量。",
+          "AI_FEATURE_TITLE_1": "设备数量",
+          "AI_FEATURE_TITLE_2": "流量需求",
+          "AI_FEATURE_TITLE_3": "订阅周期",
+          "AI_GUIDE_INTRO": "先确认设备数量与流量需求，再按客户端配置订阅。",
+          "AI_GUIDE_TITLE": "球加速使用步骤",
+          "AI_HERO_INTRO": "球加速为需要海外访问的用户提供多档订阅方案，支持 3 至 20 台设备同时在线，月流量覆盖 100GB 到 1000GB，可依设备数量与使用场景选择基础版、旗舰版或团队版。",
+          "AI_HERO_SUBTITLE": "多场景订阅，按需选档",
+          "AI_HIGHLIGHT_1": "三档套餐按设备数区分",
+          "AI_HIGHLIGHT_2": "月付与年付灵活切换",
+          "AI_HIGHLIGHT_3": "专线优化游戏与流媒体",
+          "AI_PLANS_INTRO": "按设备数量与月流量对比三档套餐，旗舰版兼顾流媒体与游戏加速。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_STEP_TEXT_1": "根据设备数量、月流量与使用场景，从基础版、旗舰版和团队版中选择合适套餐。",
+          "AI_STEP_TEXT_2": "查看所选套餐的设备限制、流量额度与订阅周期，确认是否满足日常需求。",
+          "AI_STEP_TEXT_3": "前往客户端页面下载对应版本，按客户端文档导入订阅配置后连接使用。",
+          "AI_STEP_TITLE_1": "选择套餐",
+          "AI_STEP_TITLE_2": "查看适配要求",
+          "AI_STEP_TITLE_3": "配置订阅",
+          "AI_VISUAL_TITLE": "球加速订阅方案",
+          "AI_FAQ_TITLE": "球加速常见问题",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_QUESTION_1": "球加速套餐可以中途升级吗？",
+          "AI_FAQ_ANSWER_1": "支持在会员中心按剩余周期补差价升级，升级后流量与设备数即刻按新套餐生效。",
+          "AI_FAQ_QUESTION_2": "同时在线设备数量如何计算？",
+          "AI_FAQ_ANSWER_2": "以同时连接球加速网络的设备数为准，超出套餐数量时新设备无法连接，可升级或断开其他设备。",
+          "AI_FAQ_QUESTION_3": "年付方案比月付便宜多少？",
+          "AI_FAQ_ANSWER_3": "基础版年付150元，旗舰版年付350元，团队版年付850元，相当于按月付费的约八三折。",
+          "AI_FAQ_QUESTION_4": "IPLC专线适合哪些场景？",
+          "AI_FAQ_ANSWER_4": "旗舰版IPLC专线针对游戏加速优化，适合对延迟敏感的游戏、语音会议及实时协作场景。",
+          "AI_FAQ_QUESTION_5": "订阅链接可以分享给他人吗？",
+          "AI_FAQ_ANSWER_5": "订阅链接与账号绑定，分享可能导致账号被限制，建议每个账号在套餐允许的设备范围内使用。"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "xn--9kqx4x0re.com",
+    "host": "xn--9kqx4x0re.com"
+  },
+  "file_hashes": {
+    "index.html": "b921507ea99863734c76d676e7a8bb02b3e7052e379696cbeccb8245270cf815",
+    "sitemap.xml": "1c2183606dbcd22a4b6603c4574bf8250bc44ccdf5736be6bc0eeb136f9b4e96",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "db84d9b0ccb29b85d1c6d763c44ba2e5a10a5f37f35dcc82c42c7147e715de98",
+    "robots.txt": "2b93e2cff61fed5c1b761b764f7551eec24d0dfe80539dbb2af4829e6475347a",
+    "bc249cefe0888de09cc3b2ecb3ec7842.txt": "50937200c52a5321b8b3a0ab1367d973640146c07fc552c2d896901d72e7ebcf"
+  },
+  "revision": "34a958acb37ee39df07574c9aee59e6ef3d2d0b1192da69b38b895e9a089812e"
+}
